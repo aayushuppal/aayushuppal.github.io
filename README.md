@@ -1,1 +1,1 @@
-- ## Personal Website - https://aayushuppal.github.io
+- ## Personal Website - https://aayuppal.com
