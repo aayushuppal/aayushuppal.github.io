@@ -1,1 +1,1 @@
-- ## Personal Website - https://aayushuppal.github.io
+## [aayuppal.com](https://aayuppal.com)
